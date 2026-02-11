@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/autotrade_v2.schema.json",
+  "title": "AutoTrade v2 Schema",
+  "type": "object",
+  "description": "Root schema placeholder for AutoTrade v2 contracts",
+  "properties": {},
+  "additionalProperties": true
+}
