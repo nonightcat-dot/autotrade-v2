@@ -1,0 +1,1 @@
+# Python 3.10 project skeleton currently uses only standard library modules.
